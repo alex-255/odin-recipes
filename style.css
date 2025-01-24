@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 50px;
+}
+
+img {
+    /* display: inline-block; */
+    width: 100%;
+    height: auto;
+}
+
+nav > ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav > ul > li {
+    margin-right: 10px;
+}
